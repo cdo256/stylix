@@ -11,7 +11,7 @@ mkTarget {
         # negligible amount of space, so it's reasonable to have this always on.
         enable = true;
 
-        extraOpts.BrowserThemeColor = colors.withHashtag.base00;
+        extraOpts.BrowserThemeColor = colors.withHashtag.base01;
       };
     };
 }
