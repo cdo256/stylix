@@ -46,7 +46,7 @@ in
 
           colors =
             let
-              background = base00;
+              background = base01;
               indicator = base0B;
             in
             {
